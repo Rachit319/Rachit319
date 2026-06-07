@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rachit Rawat</h1>
 
 <h3 align="center">
-✨ Full Stack Developer | Compiler Enthusiast | Problem Solver ✨
+✨ Full Stack Developer | AI & ML Enthusiast | Problem Solver ✨
 </h3>
 
 <p align="center">
