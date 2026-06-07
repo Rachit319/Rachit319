@@ -5,14 +5,14 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=22&duration=3000&pause=1000&color=4F9EFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Compiler+%26+Language+Designer;ML+%26+AI+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=22&duration=3000&pause=1000&color=4F9EFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Cloud+Computing+Learner;Always+Learning+Something+New+🚀">
 </p>
 
 <p align="center">
   <a href="https://github.com/Rachit319">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/rachitrawat">
+  <a href="www.linkedin.com/in/rachit-rawat-847156287">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:rawatrachit54@gmail.com">
@@ -20,9 +20,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rachit319&label=Profile%20Views&color=4F9EFF&style=for-the-badge">
-</p>
+
 
 ---
 
@@ -32,17 +30,17 @@
 
 🎓 **B.Tech Computer Science Engineering Student**
 
-💻 Passionate about **Full Stack Development**, **Compiler Design**, and **Artificial Intelligence**.
+💻 Passionate about **Full Stack Development**, **Artificial Intelligence**, and **Machine Learning**.
 
 🚀 Building impactful software solutions that solve real-world problems with clean, efficient code.
 
 ### ✨ Highlights
 
-- 🌍 Based in **India**
+- 🌍 Based in **Dehradun,Uttarakhand,India**
 - 🎓 Pursuing **B.Tech in Computer Science Engineering**
 - ⚙️ Built **Q Language** — a custom compiler with Hindi-inspired keywords
 - 🤖 Interested in **Artificial Intelligence, Machine Learning & LLMs**
-- 🐾 Co-developed **PawFinds** — a full-stack pet adoption platform with ML integration
+- 🐾 Building projects like **Pawfinds**, **Autosorter**,and **Q language**
 - ☁️ Exploring **Cloud Computing, DevOps, Docker & Scalable Systems**
 - 🌱 Learning **System Design, MLOps & Modern Software Engineering**
 - 📫 Reach me at **rawatrachit54@gmail.com**
@@ -52,7 +50,7 @@
 # ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,react,nextjs,nodejs,express,mongodb,postgresql,mysql,flask,docker,git,github,linux,vscode,tensorflow&perline=9" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nodejs,express,django,mysql,postgresql,mongodb,firebase,git,github,docker,aws,linux,vscode,tensorflow,pytorch&perline=8" />
 </p>
 
 ---
@@ -61,6 +59,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| 🤖 **AutoSorter** | Smart file manager to autosort files according to the content of file | Electron, React, Sharp, Scikit-learn, Pandas
 | ⚙️ **Q Language** | Custom compiler with Hindi-inspired keywords (`rakho`, `likho`, `agar`, `dohrao`) and Gemini AI integration | C++, Next.js, React, Gemini API |
 | 🐾 **PawFinds** | Full-stack pet adoption platform with ML-powered pet matching microservice | React, Node.js, MongoDB, Python, Flask |
 
@@ -89,11 +88,12 @@
 
 # 🎯 Current Focus
 
+
 - ✅ Full Stack Development
-- ✅ Compiler Design & Programming Languages
-- ✅ Artificial Intelligence & Machine Learning
-- ✅ Docker & DevOps
-- ✅ Database Design & Architecture
+- ✅ Artificial Intelligence
+- ✅ Machine Learning
+- ✅ Large Language Models (LLMs)
+- ✅ Cloud Computing
 - ✅ Open Source Contributions
 - ✅ System Design
 - ✅ Data Structures & Algorithms
@@ -102,12 +102,13 @@
 
 # 🌱 Currently Exploring
 
-- 🔥 Large Language Models (LLMs) & Generative AI
-- 🤖 MLOps & ML System Integration
+- 🔥 Generative AI
+- 🤖 Large Language Models (LLMs)
 - ☁️ AWS & Cloud Computing
-- 🏗️ System Design & Scalable Architecture
-- ⚙️ Advanced Backend Engineering
-- 📊 Data Engineering & Pipelines
+- 🏗️ System Design
+- ⚙️ Backend Architecture
+- 📊 Data Engineering
+
 
 ---
 
