@@ -65,19 +65,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rachit319&show_icons=true&theme=tokyonight&hide_border=true&title_color=4F9EFF&icon_color=4F9EFF" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rachit319&theme=tokyonight&hide_border=true&ring=4F9EFF&fire=4F9EFF&currStreakLabel=4F9EFF" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit319&layout=compact&theme=tokyonight&hide_border=true&title_color=4F9EFF" width="48%">
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
